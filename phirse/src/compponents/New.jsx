@@ -1,0 +1,27 @@
+import React from 'react'
+import logo from '../assets/react.svg'
+
+const New = () => {
+  return (
+    <>
+    <div className="navbar">
+        <div className="left">
+            <img src={logo} alt="logo of react" />
+        </div>
+        <div className="right">
+            <ul>
+                <li>Home</li>
+                <li>Contact</li>
+                <li>Skill</li>
+                <li>About</li>
+            </ul>
+        </div>
+    </div>
+     <div className='helle'>
+        <h1>this is day 2 to learn github</h1>
+    </div>
+    </>
+  )
+}
+
+export default New
