@@ -20,6 +20,7 @@ const New = () => {
     </div>
      <div className='helle'>
         <h1>this is day 2 to learn github</h1>
+        <p>this is working</p>
     </div>
     </>
   )
