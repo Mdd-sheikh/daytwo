@@ -1,5 +1,6 @@
 import React from 'react'
 import logo from '../assets/react.svg'
+import './new.css'
 
 const New = () => {
   return (
